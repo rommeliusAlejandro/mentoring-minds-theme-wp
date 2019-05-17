@@ -1,0 +1,201 @@
+@media only screen and (max-width : 1024px){
+
+	#wrapper
+	{
+		width: 100%;
+	}
+	.container 
+	{
+    	padding: 15px 5px;
+	}
+	.menu-option
+	{
+		height: 230px;
+	}
+	.option-title, .option-text  
+	{
+    	height: 100px;    	
+    	max-height: 150px;
+	}	
+
+	#showcase-area 
+	{	    
+	    background-position: 5% center;
+	    background-size: 31%;
+	}
+	#showcase-area2 .top-title-text-home.col1-3
+	{
+		width: 40%;
+	}
+	#showcase-area2 .top-title-text-home.col1-3 h2
+	{
+		margin-top: 7px;
+	}
+
+	#showcase-area2 .col1-4
+	{
+    	width: 16%;
+	}
+
+	.tut_button_col.col1-4 
+	{
+    	width: 30%;
+	}
+	.tut_button_col 
+	{
+    	margin-right: 5px;    
+	}
+
+	.page-title-section
+	{
+		padding: 0px 25px;
+	}
+	.page-title-section .col1-3
+	{
+		width: 45%;
+	}
+}
+@media only screen and (max-width : 768px ){
+	#showcase-area .col2-5 
+	{	
+		width: 60%;
+	}
+	.clear-right
+	{
+		clear: right;
+	}
+	.menu-section
+	{
+		padding: 0px 30px;
+		width: 100%;
+	}
+	.menu-section .col1-4
+	{
+		width: 45%;
+		max-height: 300px;
+		margin-bottom: 15px;
+	}
+	#main
+	{
+    	min-height: 1024px;
+	}
+	.tut_button_col.col1-4
+	{
+		width: 49%;
+	}
+
+	#showcase-area2 .top-title-text-home h1
+	{
+		font-size:32px;
+	}
+	#showcase-area2 .top-title-text-home h2
+	{
+		font-size:22px;
+	}
+}
+@media only screen and (max-width : 480px ){
+	#main, #wrapper
+	{    
+    	height: auto;
+    	min-height: 640px;
+	}
+	.slogan-mobile
+	{
+		display: block;
+		padding: 25px 5px 25px 0px;
+		background-position: left center;
+		text-align: right;
+		background-repeat: no-repeat;
+		background-size: 25%;
+		height: 45px;
+	}
+	.slogan, .menu-bar
+	{
+		display: none;
+	}
+	.showcase-area-mobile
+	{
+		display: block;
+	}
+	#showcase-area, #showcase-area2, .page-title-section
+	{
+		display: none;
+	}
+	.showcase-mobile-text
+	{
+		padding: 15px 0px;
+	}
+	.container
+	{
+		padding: 15px 15px;
+	}
+	.menu-section
+	{
+		text-align: left;
+	}
+	.menu-section, .menu-section .container
+	{
+		padding: 0px;
+	}
+	.menu-section .col1-4
+	{
+		width: 100%;
+		margin-bottom: 0px;
+		max-height: 180px;
+	}
+	.menu-section .menu-option
+	{
+		margin-right: 0px;
+		height: 150px;
+		min-height: 150px;
+	}
+	.menu-option .option-title, .menu-option .option-text
+	{
+		min-height: 45px;
+		max-height: 100px;
+		height: auto;
+	}
+	.menu-option .option-text-title, .menu-option .option-button
+	{		
+		height: 150px;
+		min-height: 150px;
+		float: left;
+		padding: 10px 0px;
+	}
+	.menu-option .option-text-title
+	{
+		width: 70%;
+	}
+	.menu-option .option-button
+	{
+		width: 30%;		
+	}
+	.menu-option .option-title h2	
+	{
+		display: inline;
+	}
+
+
+	.slogan-mobile img
+	{
+		width: 130%;
+	}
+	.logo img
+
+	{
+		width: 100%;
+	}
+
+	.mobile-opener
+	{
+		display: block;
+	}
+	.videos_section
+	{
+		display: none;
+	}
+	.list-cat-mobile
+	{
+		display: initial;
+	}
+}
